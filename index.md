@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages by Kalyan Archakam
+# Kalyan Archakam's First CS193 Homework
+
+Some of my favorite things about CS193:
+```markdown
+- One lecture a week
+- Calm environment
+- Useful topics covered for job and class preparation
+```
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
